@@ -1,0 +1,19 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "Yelp Camp Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harnish3110/Yelp-Camp.git"
+  },
+  "author": "Harnish Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harnish3110/Yelp-Camp/issues"
+  },
+  "homepage": "https://github.com/harnish3110/Yelp-Camp#readme"
+}
